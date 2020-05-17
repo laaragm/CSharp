@@ -1,0 +1,13 @@
+C:\Users\larag\OneDrive\Documentos\Study\C#\Composition2\Composition2\bin\Debug\netcoreapp3.1\Composition2.exe
+C:\Users\larag\OneDrive\Documentos\Study\C#\Composition2\Composition2\bin\Debug\netcoreapp3.1\Composition2.deps.json
+C:\Users\larag\OneDrive\Documentos\Study\C#\Composition2\Composition2\bin\Debug\netcoreapp3.1\Composition2.runtimeconfig.json
+C:\Users\larag\OneDrive\Documentos\Study\C#\Composition2\Composition2\bin\Debug\netcoreapp3.1\Composition2.runtimeconfig.dev.json
+C:\Users\larag\OneDrive\Documentos\Study\C#\Composition2\Composition2\bin\Debug\netcoreapp3.1\Composition2.dll
+C:\Users\larag\OneDrive\Documentos\Study\C#\Composition2\Composition2\bin\Debug\netcoreapp3.1\Composition2.pdb
+C:\Users\larag\OneDrive\Documentos\Study\C#\Composition2\Composition2\obj\Debug\netcoreapp3.1\Composition2.csprojAssemblyReference.cache
+C:\Users\larag\OneDrive\Documentos\Study\C#\Composition2\Composition2\obj\Debug\netcoreapp3.1\Composition2.csproj.CoreCompileInputs.cache
+C:\Users\larag\OneDrive\Documentos\Study\C#\Composition2\Composition2\obj\Debug\netcoreapp3.1\Composition2.AssemblyInfoInputs.cache
+C:\Users\larag\OneDrive\Documentos\Study\C#\Composition2\Composition2\obj\Debug\netcoreapp3.1\Composition2.AssemblyInfo.cs
+C:\Users\larag\OneDrive\Documentos\Study\C#\Composition2\Composition2\obj\Debug\netcoreapp3.1\Composition2.dll
+C:\Users\larag\OneDrive\Documentos\Study\C#\Composition2\Composition2\obj\Debug\netcoreapp3.1\Composition2.pdb
+C:\Users\larag\OneDrive\Documentos\Study\C#\Composition2\Composition2\obj\Debug\netcoreapp3.1\Composition2.genruntimeconfig.cache
