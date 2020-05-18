@@ -1,0 +1,13 @@
+C:\Users\larag\source\repos\Inheritance2\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.exe
+C:\Users\larag\source\repos\Inheritance2\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.deps.json
+C:\Users\larag\source\repos\Inheritance2\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.runtimeconfig.json
+C:\Users\larag\source\repos\Inheritance2\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.runtimeconfig.dev.json
+C:\Users\larag\source\repos\Inheritance2\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.dll
+C:\Users\larag\source\repos\Inheritance2\Inheritance2\bin\Debug\netcoreapp3.1\Inheritance2.pdb
+C:\Users\larag\source\repos\Inheritance2\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.csprojAssemblyReference.cache
+C:\Users\larag\source\repos\Inheritance2\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.csproj.CoreCompileInputs.cache
+C:\Users\larag\source\repos\Inheritance2\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.AssemblyInfoInputs.cache
+C:\Users\larag\source\repos\Inheritance2\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.AssemblyInfo.cs
+C:\Users\larag\source\repos\Inheritance2\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.dll
+C:\Users\larag\source\repos\Inheritance2\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.pdb
+C:\Users\larag\source\repos\Inheritance2\Inheritance2\obj\Debug\netcoreapp3.1\Inheritance2.genruntimeconfig.cache
