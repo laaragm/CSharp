@@ -1,0 +1,13 @@
+C:\Users\larag\source\repos\Interfaces2\Interfaces2\bin\Debug\netcoreapp3.1\Interfaces2.exe
+C:\Users\larag\source\repos\Interfaces2\Interfaces2\bin\Debug\netcoreapp3.1\Interfaces2.deps.json
+C:\Users\larag\source\repos\Interfaces2\Interfaces2\bin\Debug\netcoreapp3.1\Interfaces2.runtimeconfig.json
+C:\Users\larag\source\repos\Interfaces2\Interfaces2\bin\Debug\netcoreapp3.1\Interfaces2.runtimeconfig.dev.json
+C:\Users\larag\source\repos\Interfaces2\Interfaces2\bin\Debug\netcoreapp3.1\Interfaces2.dll
+C:\Users\larag\source\repos\Interfaces2\Interfaces2\bin\Debug\netcoreapp3.1\Interfaces2.pdb
+C:\Users\larag\source\repos\Interfaces2\Interfaces2\obj\Debug\netcoreapp3.1\Interfaces2.csprojAssemblyReference.cache
+C:\Users\larag\source\repos\Interfaces2\Interfaces2\obj\Debug\netcoreapp3.1\Interfaces2.csproj.CoreCompileInputs.cache
+C:\Users\larag\source\repos\Interfaces2\Interfaces2\obj\Debug\netcoreapp3.1\Interfaces2.AssemblyInfoInputs.cache
+C:\Users\larag\source\repos\Interfaces2\Interfaces2\obj\Debug\netcoreapp3.1\Interfaces2.AssemblyInfo.cs
+C:\Users\larag\source\repos\Interfaces2\Interfaces2\obj\Debug\netcoreapp3.1\Interfaces2.dll
+C:\Users\larag\source\repos\Interfaces2\Interfaces2\obj\Debug\netcoreapp3.1\Interfaces2.pdb
+C:\Users\larag\source\repos\Interfaces2\Interfaces2\obj\Debug\netcoreapp3.1\Interfaces2.genruntimeconfig.cache
